@@ -3,6 +3,6 @@
 ```python
 ./huffman [-d] infile outfile 压缩文件 如 ./huffman -d 1.png 1.huffman
 
-./huffman [-e] infile outfile 解压文件 如 ./huffman -e 1.huffman 1_ecode.png
+./huffman [-e] infile outfile 解压文件 如 ./huffman -e 1.huffman ecode.png
 ```
 
